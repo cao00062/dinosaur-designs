@@ -1,38 +1,39 @@
-body{
+body {
     background-color: #f2f1ed;
-    font-family: Georgia, Serif; 
+    font-family: Georgia, serif; 
     line-height: 1.5;
 }
 
-img{
+img {
     width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
 }
 
-p{
+p {
   font-size: 90%;
   text-align: center;
   font-style: italic;
 }
 
-.firstcaption{
-    font-size: 100%;
+.firstcaption {
+  font-size: 100%;
 }
 
-a{
-    color: #793284;
-    font-family: 'Patua One', cursive;
+a {
+  color: #793284;
+  font-family: "Patua One", cursive;
+  display: block;
 }
 
-a:hover{
-    color: #b42885;
+a:hover {
+  color: #b42885;
 }
 
-header nav:last-of-type a{
+header nav:last-of-type a {
     
 }
