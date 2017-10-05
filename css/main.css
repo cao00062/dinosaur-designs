@@ -32,3 +32,7 @@ a{
 a:hover{
     color: #b42885;
 }
+
+header nav:last-of-type a{
+    
+}
