@@ -1,0 +1,34 @@
+body{
+    background-color: #f2f1ed;
+    font-family: Georgia, Serif; 
+    line-height: 1.5;
+}
+
+img{
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #5d8432;
+  text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+}
+
+p{
+  font-size: 90%;
+  text-align: center;
+  font-style: italic;
+}
+
+.firstcaption{
+    font-size: 100%;
+}
+
+a{
+    color: #793284;
+    font-family: 'Patua One', cursive;
+}
+
+a:hover{
+    color: #b42885;
+}
